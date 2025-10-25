@@ -3,7 +3,7 @@
 ## Project info
 
 **Name**: EduCred
-**URL**: 
+**URL**: https://henoc0.github.io/educred_main/
 
 ## Our Hedera Service and wyh we used ?
 For EduCred, we leveraged Hedera File Service primarily for its immutable storage and consensus-based timestamping, ensuring academic credentials cannot be altered once recorded. 
@@ -13,7 +13,7 @@ For EduCred, we leveraged Hedera File Service primarily for its immutable storag
 
 ## Deployment and setup instructions
 For visualize tha app in local, here is what you have to do :
-1. **Clone the Repository:** `git clone https://github.com/Henoc0/educred.git && cd educred`
+1. **Clone the Repository:** `git clone https://github.com/Henoc0/educred_main.git && cd educred_main`
 2. **Install Dependencies:** `npm install`
 3. **Configure Environment:** Test account ID and 
 Private Key are provided in the DoraHacks submission text field for verification. Our supabase keys are already in the code
@@ -23,6 +23,7 @@ Private Key are provided in the DoraHacks submission text field for verification
 
 
 ## Architecture Diagram
+The ASCII diagram is not displaying correctly in the readme; please view it properly once you have the project locally.
 ┌─────────────────────────────────────────────────────────────────┐
 │                      EDUCRED ARCHITECTURE                       │
 └─────────────────────────────────────────────────────────────────┘
