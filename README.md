@@ -16,9 +16,10 @@ For visualize tha app in local, here is what you have to do :
 1. **Clone the Repository:** `git clone https://github.com/Henoc0/educred_main.git && cd educred_main`
 2. **Install Dependencies:** `npm install`
 3. **Configure Environment:** Test account ID and 
-Private Key are provided in the DoraHacks submission text field for verification. Our supabase keys are already in the code
+Private Key are provided in the DoraHacks submission text field for verification. Our supabase keys are already in the code.
 4. **Launch Application:** `npm run dev`
 **Running Environment:** The React frontend will launch on `http://localhost:8080` and connect to our pre-deployed backend on Render. Note: After the frontend loads, please allow a few seconds for the backend to fully connect and initialize its Hedera Testnet services before using the application.
+**Language :** the application is actually in french because we are in a french country and we had to test with some collaborators. Please use the translator in your browser for use the application in english.
 
 
 
