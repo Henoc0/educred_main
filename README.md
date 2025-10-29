@@ -48,6 +48,6 @@ The ASCII diagram is not displaying correctly in the readme; please view it prop
 
 
 
-## Deployed Hedera IDs
-*HEDERA_ACCOUNT_ID*="0.0.6874436"
-*Hedera_adress*="0x1f8bf3582911cc671a84cbf31d90279fa140dc00"
+## Links
+**Link pitch_deck :** https://drive.google.com/file/d/1kqGj9U9pCK2EFbbkgYGPMay1cXKHfc6i/view?usp=drive_link
+**Link certificate :** https://claim.hashgraphdev.com/certification?oneTimeCode=e3b1ed20-505b-11f0-87d6-b10da8503b34
